@@ -1,6 +1,6 @@
 # 🐳 CI/CD Pipeline with GitHub Actions & Docker (Local Deployment)
 
-This project demonstrates a complete CI/CD pipeline using GitHub Actions, **Docker**, and **Docker Hub**, with deployment on a **local VM** — no cloud provider needed.
+This project demonstrates a complete CI/CD pipeline using GitHub **Actions**, **Docker**, and **Docker Hub**, with deployment on a **local VM** — no cloud provider needed.
 
 
 ## 🚀 Project Objective
@@ -82,7 +82,7 @@ In your GitHub repo:
 Go to Settings → Secrets and variables → Actions → New repository secret
 Add:
 Name: DOCKER_USERNAME
-Value: your Docker Hub username (e.g., precilitha123)
+Value: your Docker Hub username (e.g., Kavya5229)
 Do the same for your password:
 
 Name: DOCKER_PASSWORD
@@ -131,6 +131,12 @@ Use ip a or hostname -I to get your VM's IP.
 ✅ CI/CD pipeline status shown in Actions tab
 
 ## Results:
+![Screenshot (174)](https://github.com/user-attachments/assets/737a0f28-15fa-4921-b6cb-2262df283c6f)
+![Screenshot (173)](https://github.com/user-attachments/assets/2ce2ed6f-0376-49ce-bb2f-bd0d49d43022)
+![Screenshot (172)](https://github.com/user-attachments/assets/5716cf6b-9c84-4f66-bc1f-3f0f23ad141c)
+![Screenshot (171)](https://github.com/user-attachments/assets/bd5a1b5b-28d7-4433-ac18-c47a5520b9e8)
+![Screenshot (170)](https://github.com/user-attachments/assets/bcdeea84-8925-4c03-ae7c-5af15687339b)
+![Screenshot (169)](https://github.com/user-attachments/assets/6525c263-0a11-40ca-a72e-7d59bd7671de)
 
 
 
